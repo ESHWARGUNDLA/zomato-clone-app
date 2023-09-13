@@ -1,18 +1,16 @@
 # zomato-clone-app
 
-# Extensions in VS Editor
-# Live Server
-# Prettier - code formatter
-# Auto close tag
-# Auto Rename Tag
+Extensions in VS Editor
+Live Server
+Prettier - code formatter
+Auto close tag
+Auto Rename Tag
 
 
 ## Prettier VS Code:
 https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code
 
 ## Terminal => ctrl + shift + `
-
-
 
 ## BEM
 
