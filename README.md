@@ -6,8 +6,8 @@ Prettier - code formatter
 Auto close tag
 Auto Rename Tag
 
-
 ## Prettier VS Code:
+
 https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code
 
 ## Terminal => ctrl + shift + `
@@ -15,8 +15,6 @@ https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettie
 ## BEM
 
 Block Element Modifier https://getbem.com/
-
-full_name full__name full___name
 
 full-name full--name full---name
 
